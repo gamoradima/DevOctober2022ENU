@@ -1,0 +1,18 @@
+﻿{
+  "Descriptor": {
+    "UId": "a907ce8a-fec5-0ce6-0005-38d424e123a3",
+    "PackageVersion": "8.0.4",
+    "Name": "GLDevOct22EN",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1666106529000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/GLDevOct22EN.csproj",
+    "DependsOn": [
+      {
+        "UId": "d7559847-f38e-410c-baee-6f43bbe80d42",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterpriseSoftkey_ENU"
+      }
+    ]
+  }
+}
