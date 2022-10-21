@@ -1,0 +1,35 @@
+﻿{
+  "Descriptor": {
+    "UId": "212c5a93-3e54-4cae-b0e6-cb97aeea5720",
+    "Name": "SysModuleEntity_SysModuleEntityManager_e9e5fb0c122941e79a75bf7ed0dbb4fb",
+    "ModifiedOnUtc": "\/Date(1666194060000)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "9c762665-90ad-497b-ac4b-45bb729630a1",
+      "Name": "SysModuleEntity"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": false,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "0c59594b-490a-4b55-a564-5841cfae3c19",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "SysEntitySchemaUId",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "3107ef98-a02e-4ea8-809a-67dc3025ef4a",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "TypeColumnUId",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      }
+    ]
+  }
+}
